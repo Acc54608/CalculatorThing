@@ -1,0 +1,22 @@
+E:\CPT185\Alex-Casper-CPT-185-Final\bin\Debug\Alex-Casper-CPT-185-Final.exe.config
+E:\CPT185\Alex-Casper-CPT-185-Final\bin\Debug\Alex-Casper-CPT-185-Final.exe
+E:\CPT185\Alex-Casper-CPT-185-Final\bin\Debug\Alex-Casper-CPT-185-Final.pdb
+E:\CPT185\Alex-Casper-CPT-185-Final\obj\Debug\Alex-Casper-CPT-185-Final.csprojAssemblyReference.cache
+E:\CPT185\Alex-Casper-CPT-185-Final\obj\Debug\Alex_Casper_CPT_185_Final.Form1.resources
+E:\CPT185\Alex-Casper-CPT-185-Final\obj\Debug\Alex_Casper_CPT_185_Final.Properties.Resources.resources
+E:\CPT185\Alex-Casper-CPT-185-Final\obj\Debug\Alex-Casper-CPT-185-Final.csproj.GenerateResource.cache
+E:\CPT185\Alex-Casper-CPT-185-Final\obj\Debug\Alex-Casper-CPT-185-Final.csproj.CoreCompileInputs.cache
+E:\CPT185\Alex-Casper-CPT-185-Final\obj\Debug\Alex-Casper-CPT-185-Final.exe
+E:\CPT185\Alex-Casper-CPT-185-Final\obj\Debug\Alex-Casper-CPT-185-Final.pdb
+E:\CPT185\Alex-Casper-CPT-185-Final\obj\Debug\Alex_Casper_CPT_185_Final.AboutForm.resources
+D:\Documents\1 School\F2019\CPT185\Alex-Casper-CPT-185-Final\bin\Debug\Alex-Casper-CPT-185-Final.exe.config
+D:\Documents\1 School\F2019\CPT185\Alex-Casper-CPT-185-Final\bin\Debug\Alex-Casper-CPT-185-Final.exe
+D:\Documents\1 School\F2019\CPT185\Alex-Casper-CPT-185-Final\bin\Debug\Alex-Casper-CPT-185-Final.pdb
+D:\Documents\1 School\F2019\CPT185\Alex-Casper-CPT-185-Final\obj\Debug\Alex-Casper-CPT-185-Final.csprojAssemblyReference.cache
+D:\Documents\1 School\F2019\CPT185\Alex-Casper-CPT-185-Final\obj\Debug\Alex_Casper_CPT_185_Final.AboutForm.resources
+D:\Documents\1 School\F2019\CPT185\Alex-Casper-CPT-185-Final\obj\Debug\Alex_Casper_CPT_185_Final.Form1.resources
+D:\Documents\1 School\F2019\CPT185\Alex-Casper-CPT-185-Final\obj\Debug\Alex_Casper_CPT_185_Final.Properties.Resources.resources
+D:\Documents\1 School\F2019\CPT185\Alex-Casper-CPT-185-Final\obj\Debug\Alex-Casper-CPT-185-Final.csproj.GenerateResource.cache
+D:\Documents\1 School\F2019\CPT185\Alex-Casper-CPT-185-Final\obj\Debug\Alex-Casper-CPT-185-Final.csproj.CoreCompileInputs.cache
+D:\Documents\1 School\F2019\CPT185\Alex-Casper-CPT-185-Final\obj\Debug\Alex-Casper-CPT-185-Final.exe
+D:\Documents\1 School\F2019\CPT185\Alex-Casper-CPT-185-Final\obj\Debug\Alex-Casper-CPT-185-Final.pdb
